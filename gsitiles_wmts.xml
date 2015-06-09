@@ -33,6 +33,7 @@
 <Layer>
 <ows:Identifier>std</ows:Identifier>
 <ows:Title>標準地図</ows:Title>
+<ows:WGS84BoundingBox><ows:LowerCorner>122.943 20.4539</ows:LowerCorner><ows:UpperCorner>153.994 45.5541</ows:UpperCorner></ows:WGS84BoundingBox>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
