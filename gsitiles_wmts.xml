@@ -38,7 +38,7 @@
 </Style>
 <Format>image/png</Format>
 <TileMatrixSetLink>
-<TileMatrixSet>z2to18</TileMatrixSet>
+<TileMatrixSet>EPSG900913</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/std/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
